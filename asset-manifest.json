@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/starter-project/static/css/main.36580383.css",
-    "main.js": "/starter-project/static/js/main.bf32257f.js",
-    "static/js/787.c1112931.chunk.js": "/starter-project/static/js/787.c1112931.chunk.js",
-    "static/media/background.jpg": "/starter-project/static/media/background.7b21ffbf00f6c62ec6ce.jpg",
-    "static/media/PPGoshaSans-Regular.ttf": "/starter-project/static/media/PPGoshaSans-Regular.f8cd29e2f92285b5da86.ttf",
-    "static/media/PPGoshaSans-Ultrabold.otf": "/starter-project/static/media/PPGoshaSans-Ultrabold.4794745c06373fb208de.otf",
-    "static/media/PPCharlevoix-Regular.woff2": "/starter-project/static/media/PPCharlevoix-Regular.879e5685ff5a73d4fd73.woff2",
-    "static/media/PPCharlevoix-Black.woff2": "/starter-project/static/media/PPCharlevoix-Black.bb4c64e527941bf27a63.woff2",
-    "static/media/PPCharlevoix-Thin.woff2": "/starter-project/static/media/PPCharlevoix-Thin.7b1dac6c1b0f49c434e5.woff2",
-    "static/media/PPCharlevoix-Bold.woff2": "/starter-project/static/media/PPCharlevoix-Bold.e2a63e11b7d43c561cfd.woff2",
-    "index.html": "/starter-project/index.html",
-    "main.36580383.css.map": "/starter-project/static/css/main.36580383.css.map",
-    "main.bf32257f.js.map": "/starter-project/static/js/main.bf32257f.js.map",
-    "787.c1112931.chunk.js.map": "/starter-project/static/js/787.c1112931.chunk.js.map"
+    "main.css": "/umibe-fansite/static/css/main.738b4cf2.css",
+    "main.js": "/umibe-fansite/static/js/main.ec00a7fd.js",
+    "static/js/787.c1112931.chunk.js": "/umibe-fansite/static/js/787.c1112931.chunk.js",
+    "static/media/background.jpg": "/umibe-fansite/static/media/background.7b21ffbf00f6c62ec6ce.jpg",
+    "static/media/PPGoshaSans-Regular.ttf": "/umibe-fansite/static/media/PPGoshaSans-Regular.f8cd29e2f92285b5da86.ttf",
+    "static/media/PPGoshaSans-Ultrabold.otf": "/umibe-fansite/static/media/PPGoshaSans-Ultrabold.4794745c06373fb208de.otf",
+    "static/media/PPCharlevoix-Regular.woff2": "/umibe-fansite/static/media/PPCharlevoix-Regular.879e5685ff5a73d4fd73.woff2",
+    "static/media/PPCharlevoix-Black.woff2": "/umibe-fansite/static/media/PPCharlevoix-Black.bb4c64e527941bf27a63.woff2",
+    "static/media/PPCharlevoix-Thin.woff2": "/umibe-fansite/static/media/PPCharlevoix-Thin.7b1dac6c1b0f49c434e5.woff2",
+    "static/media/PPCharlevoix-Bold.woff2": "/umibe-fansite/static/media/PPCharlevoix-Bold.e2a63e11b7d43c561cfd.woff2",
+    "index.html": "/umibe-fansite/index.html",
+    "main.738b4cf2.css.map": "/umibe-fansite/static/css/main.738b4cf2.css.map",
+    "main.ec00a7fd.js.map": "/umibe-fansite/static/js/main.ec00a7fd.js.map",
+    "787.c1112931.chunk.js.map": "/umibe-fansite/static/js/787.c1112931.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.36580383.css",
-    "static/js/main.bf32257f.js"
+    "static/css/main.738b4cf2.css",
+    "static/js/main.ec00a7fd.js"
   ]
 }
