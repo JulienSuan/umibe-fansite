@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/umibe-fansite/static/css/main.738b4cf2.css",
-    "main.js": "/umibe-fansite/static/js/main.7f8662da.js",
+    "main.js": "/umibe-fansite/static/js/main.132137ba.js",
     "static/js/787.c1112931.chunk.js": "/umibe-fansite/static/js/787.c1112931.chunk.js",
     "static/media/background.jpg": "/umibe-fansite/static/media/background.7b21ffbf00f6c62ec6ce.jpg",
     "static/media/PPGoshaSans-Regular.ttf": "/umibe-fansite/static/media/PPGoshaSans-Regular.f8cd29e2f92285b5da86.ttf",
@@ -12,11 +12,11 @@
     "static/media/PPCharlevoix-Bold.woff2": "/umibe-fansite/static/media/PPCharlevoix-Bold.e2a63e11b7d43c561cfd.woff2",
     "index.html": "/umibe-fansite/index.html",
     "main.738b4cf2.css.map": "/umibe-fansite/static/css/main.738b4cf2.css.map",
-    "main.7f8662da.js.map": "/umibe-fansite/static/js/main.7f8662da.js.map",
+    "main.132137ba.js.map": "/umibe-fansite/static/js/main.132137ba.js.map",
     "787.c1112931.chunk.js.map": "/umibe-fansite/static/js/787.c1112931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.738b4cf2.css",
-    "static/js/main.7f8662da.js"
+    "static/js/main.132137ba.js"
   ]
 }
